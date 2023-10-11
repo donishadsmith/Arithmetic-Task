@@ -1,0 +1,300 @@
+3.1056 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1920, 1080]. Using actual size
+3.4480 	EXP 	Created equation_first_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_first_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.4496 	EXP 	Created equation_operator = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_operator', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.4512 	EXP 	Created equation_second_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_second_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.4527 	EXP 	Created equation = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.4543 	EXP 	Created comparison = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='comparison', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.4558 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.4573 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.5044 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.5062 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.5093 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+3.5194 	EXP 	Created end_screen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='end_screen', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='The task is now complete.', units='norm', win=Window(...), wrapWidth=1)
+3.5196 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+3.5197 	EXP 	New trial (rep=0, index=0): None
+3.5218 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+3.5362 	EXP 	Created instruction_text_box = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instruction_text_box', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.3)
+3.9096 	DATA 	Keypress: space
+9.9102 	EXP 	New trial (rep=0, index=0): None
+9.9866 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\05_e.png'
+9.9866 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\16_e.png'
+9.9866 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\add_e.png'
+9.9866 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\19_e.png'
+25.4252 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+25.9173 	EXP 	New trial (rep=1, index=0): None
+25.9514 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+25.9514 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+25.9514 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\subtract_n.png'
+25.9514 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\-1_n.png'
+38.9433 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+39.4170 	EXP 	New trial (rep=2, index=0): None
+39.4443 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\13_n.png'
+39.4443 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\03_n.png'
+39.4443 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\multiply_n.png'
+39.4443 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\36_n.png'
+48.2914 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\negative.png'
+48.7850 	EXP 	New trial (rep=3, index=0): None
+48.8547 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\30_e.png'
+48.8547 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\07_e.png'
+48.8547 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\divide_e.png'
+48.8547 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\05_e.png'
+60.5680 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\negative.png'
+61.0695 	EXP 	New trial (rep=4, index=0): None
+61.1176 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\02_e.png'
+61.1176 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\07_e.png'
+61.1176 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\subtract_e.png'
+61.1176 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\02_e.png'
+72.8397 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\negative.png'
+75.4056 	EXP 	window1: mouseVisible = True
+3.5458 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1920, 1080]. Using actual size
+3.9026 	EXP 	Created equation_first_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_first_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.9042 	EXP 	Created equation_operator = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_operator', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.9057 	EXP 	Created equation_second_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_second_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.9073 	EXP 	Created equation = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.9087 	EXP 	Created comparison = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='comparison', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.9103 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.9118 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.9568 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.9585 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.9611 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+3.9716 	EXP 	Created end_screen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='end_screen', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='The task is now complete.', units='norm', win=Window(...), wrapWidth=1)
+3.9719 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+3.9720 	EXP 	New trial (rep=0, index=0): None
+3.9741 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+3.9892 	EXP 	Created instruction_text_box = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instruction_text_box', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.3)
+5.7263 	DATA 	Keypress: space
+11.7327 	EXP 	New trial (rep=0, index=0): None
+11.8305 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\05_s.png'
+11.8305 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\16_s.png'
+11.8305 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\add_s.png'
+11.8305 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\19_s.png'
+27.2685 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+27.4411 	DATA 	Keypress: down
+27.7607 	EXP 	New trial (rep=1, index=0): None
+27.8018 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+27.8018 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+27.8018 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\subtract_n.png'
+27.8018 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\-1_n.png'
+28.1494 	DATA 	Keypress: down
+28.9828 	DATA 	Keypress: down
+29.3370 	DATA 	Keypress: down
+29.6216 	DATA 	Keypress: down
+29.9133 	DATA 	Keypress: down
+30.2468 	DATA 	Keypress: down
+30.4824 	DATA 	Keypress: down
+30.7607 	DATA 	Keypress: down
+31.0456 	DATA 	Keypress: down
+31.7122 	DATA 	Keypress: down
+32.6981 	DATA 	Keypress: down
+33.1219 	DATA 	Keypress: down
+33.3857 	DATA 	Keypress: down
+33.6565 	DATA 	Keypress: down
+33.8367 	DATA 	Keypress: down
+34.0867 	DATA 	Keypress: down
+34.3298 	DATA 	Keypress: down
+34.5658 	DATA 	Keypress: down
+34.7674 	DATA 	Keypress: down
+35.0039 	DATA 	Keypress: down
+35.2325 	DATA 	Keypress: down
+35.4895 	DATA 	Keypress: down
+35.6977 	DATA 	Keypress: down
+35.9131 	DATA 	Keypress: down
+36.1006 	DATA 	Keypress: down
+36.3301 	DATA 	Keypress: down
+36.5311 	DATA 	Keypress: down
+36.7259 	DATA 	Keypress: down
+36.9412 	DATA 	Keypress: down
+37.1426 	DATA 	Keypress: down
+37.3580 	DATA 	Keypress: down
+37.5521 	DATA 	Keypress: down
+37.7816 	DATA 	Keypress: down
+38.0522 	DATA 	Keypress: down
+38.3299 	DATA 	Keypress: down
+38.5591 	DATA 	Keypress: down
+38.7744 	DATA 	Keypress: down
+39.1220 	DATA 	Keypress: down
+39.3231 	DATA 	Keypress: down
+39.5245 	DATA 	Keypress: down
+39.7538 	DATA 	Keypress: down
+39.9619 	DATA 	Keypress: down
+40.1633 	DATA 	Keypress: down
+40.3715 	DATA 	Keypress: down
+40.5800 	DATA 	Keypress: down
+40.7877 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+40.7883 	DATA 	Keypress: down
+40.9895 	DATA 	Keypress: down
+41.1839 	DATA 	Keypress: down
+41.2613 	EXP 	New trial (rep=2, index=0): None
+41.2617 	ERROR 	Couldn't find image C:\Users\donis\OneDrive\Desktop\Files\Arithmetic-Task - MOCK\stimuli\numerals\english\13_e.png; check path? (tried: C:\Users\donis\OneDrive\Desktop\Files\Arithmetic-Task - MOCK\stimuli\numerals\english\13_e.png)
+41.3303 	EXP 	window1: mouseVisible = True
+2.4274 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1920, 1080]. Using actual size
+2.8345 	EXP 	Created equation_first_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_first_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+2.8361 	EXP 	Created equation_operator = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_operator', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+2.8376 	EXP 	Created equation_second_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_second_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+2.8391 	EXP 	Created equation = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+2.8406 	EXP 	Created comparison = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='comparison', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+2.8421 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+2.8436 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+2.8889 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+2.8907 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+2.8931 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+2.9036 	EXP 	Created end_screen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='end_screen', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='The task is now complete.', units='norm', win=Window(...), wrapWidth=1)
+2.9039 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+2.9040 	EXP 	New trial (rep=0, index=0): None
+2.9060 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+2.9208 	EXP 	Created instruction_text_box = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instruction_text_box', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.3)
+4.0467 	DATA 	Keypress: space
+10.0470 	EXP 	New trial (rep=0, index=0): None
+10.1377 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\05_s.png'
+10.1377 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\16_s.png'
+10.1377 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\add_s.png'
+10.1377 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\19_s.png'
+25.5620 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+26.0541 	EXP 	New trial (rep=1, index=0): None
+26.0881 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+26.0881 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+26.0881 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\subtract_n.png'
+26.0881 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\-1_n.png'
+28.0886 	DATA 	Keypress: down
+28.2554 	DATA 	Keypress: down
+28.4150 	DATA 	Keypress: down
+28.6236 	DATA 	Keypress: down
+28.8457 	DATA 	Keypress: down
+29.0674 	DATA 	Keypress: down
+29.2762 	DATA 	Keypress: down
+29.6235 	DATA 	Keypress: down
+29.8456 	DATA 	Keypress: down
+30.1026 	DATA 	Keypress: down
+30.3249 	DATA 	Keypress: down
+30.5054 	DATA 	Keypress: down
+30.7212 	DATA 	Keypress: down
+30.9638 	DATA 	Keypress: down
+31.2484 	DATA 	Keypress: down
+31.4568 	DATA 	Keypress: down
+31.6791 	DATA 	Keypress: down
+31.8942 	DATA 	Keypress: down
+32.0954 	DATA 	Keypress: down
+32.3593 	DATA 	Keypress: down
+32.9773 	DATA 	Keypress: down
+34.9081 	DATA 	Keypress: down
+35.6789 	DATA 	Keypress: down
+37.5261 	DATA 	Keypress: down
+38.4359 	DATA 	Keypress: down
+38.8456 	DATA 	Keypress: down
+39.0801 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+39.2689 	DATA 	Keypress: down
+39.5538 	EXP 	New trial (rep=2, index=0): None
+39.5772 	ERROR 	Couldn't find image C:\Users\donis\OneDrive\Desktop\Files\Arithmetic-Task - MOCK\stimuli\numerals\english\03_e.png; check path? (tried: C:\Users\donis\OneDrive\Desktop\Files\Arithmetic-Task - MOCK\stimuli\numerals\english\03_e.png)
+39.6272 	EXP 	window1: mouseVisible = True
+3.3164 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1920, 1080]. Using actual size
+3.6688 	EXP 	Created equation_first_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_first_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.6704 	EXP 	Created equation_operator = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_operator', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.6724 	EXP 	Created equation_second_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_second_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.6739 	EXP 	Created equation = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.6754 	EXP 	Created comparison = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='comparison', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.6769 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.6785 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7238 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.7255 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.7281 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+3.7383 	EXP 	Created end_screen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='end_screen', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='The task is now complete.', units='norm', win=Window(...), wrapWidth=1)
+3.7386 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+3.7387 	EXP 	New trial (rep=0, index=0): None
+3.7407 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+3.7550 	EXP 	Created instruction_text_box = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instruction_text_box', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.3)
+4.7702 	DATA 	Keypress: space
+10.7765 	EXP 	New trial (rep=0, index=0): None
+10.8595 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\05_s.png'
+10.8595 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\16_s.png'
+10.8595 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\add_s.png'
+10.8595 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\19_s.png'
+26.3058 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+26.7975 	EXP 	New trial (rep=1, index=0): None
+26.8386 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+26.8386 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+26.8386 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\subtract_n.png'
+26.8386 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\-1_n.png'
+39.8315 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+40.3044 	EXP 	New trial (rep=2, index=0): None
+40.3222 	ERROR 	Couldn't find image C:\Users\donis\OneDrive\Desktop\Files\Arithmetic-Task - MOCK\stimuli\numerals\english\03_e.png; check path? (tried: C:\Users\donis\OneDrive\Desktop\Files\Arithmetic-Task - MOCK\stimuli\numerals\english\03_e.png)
+40.3674 	EXP 	window1: mouseVisible = True
+3.3849 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1920, 1080]. Using actual size
+3.7897 	EXP 	Created equation_first_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_first_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7913 	EXP 	Created equation_operator = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_operator', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7931 	EXP 	Created equation_second_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_second_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7946 	EXP 	Created equation = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7961 	EXP 	Created comparison = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='comparison', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7976 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7991 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.8455 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.8473 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.8500 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+3.8603 	EXP 	Created end_screen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='end_screen', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='The task is now complete.', units='norm', win=Window(...), wrapWidth=1)
+3.8606 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+3.8607 	EXP 	New trial (rep=0, index=0): None
+3.8627 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+3.8774 	EXP 	Created instruction_text_box = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instruction_text_box', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.3)
+4.0918 	DATA 	Keypress: space
+10.0922 	EXP 	New trial (rep=0, index=0): None
+10.1751 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\05_s.png'
+10.1751 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\16_s.png'
+10.1751 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\add_s.png'
+10.1751 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\19_s.png'
+25.6143 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+26.1061 	EXP 	New trial (rep=1, index=0): None
+26.1474 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+26.1474 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+26.1474 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\subtract_n.png'
+26.1474 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\-1_n.png'
+39.1391 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+39.6129 	EXP 	New trial (rep=2, index=0): None
+39.6486 	ERROR 	Couldn't find image C:\Users\donis\OneDrive\Desktop\Files\Arithmetic-Task - MOCK\stimuli\numerals\english\multiply_e.png; check path? (tried: C:\Users\donis\OneDrive\Desktop\Files\Arithmetic-Task - MOCK\stimuli\numerals\english\multiply_e.png)
+39.6975 	EXP 	window1: mouseVisible = True
+3.3453 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1920, 1080]. Using actual size
+3.7644 	EXP 	Created equation_first_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_first_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7660 	EXP 	Created equation_operator = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_operator', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7676 	EXP 	Created equation_second_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_second_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7690 	EXP 	Created equation = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7706 	EXP 	Created comparison = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='comparison', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7721 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.7736 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+3.8183 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.8200 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+3.8228 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+3.8327 	EXP 	Created end_screen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='end_screen', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='The task is now complete.', units='norm', win=Window(...), wrapWidth=1)
+3.8330 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+3.8331 	EXP 	New trial (rep=0, index=0): None
+3.8350 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+3.8494 	EXP 	Created instruction_text_box = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instruction_text_box', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.3)
+4.6645 	DATA 	Keypress: space
+10.6709 	EXP 	New trial (rep=0, index=0): None
+10.7545 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\05_s.png'
+10.7545 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\16_s.png'
+10.7545 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\add_s.png'
+10.7545 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\19_s.png'
+26.1862 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+26.6780 	EXP 	New trial (rep=1, index=0): None
+26.7121 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+26.7121 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\10_n.png'
+26.7121 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\subtract_n.png'
+26.7121 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\-1_n.png'
+39.7050 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\noninformative.png'
+40.1777 	EXP 	New trial (rep=2, index=0): None
+40.2538 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\13_e.png'
+40.2538 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\03_e.png'
+40.2538 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\multiply_e.png'
+40.2538 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\36_e.png'
+49.0858 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\negative.png'
+49.5873 	EXP 	New trial (rep=3, index=0): None
+49.6500 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\30_e.png'
+49.6500 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\07_e.png'
+49.6500 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\divide_e.png'
+49.6500 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\english\\05_e.png'
+61.3772 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\negative.png'
+61.8788 	EXP 	New trial (rep=4, index=0): None
+61.9338 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\02_s.png'
+61.9338 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\07_s.png'
+61.9338 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\subtract_s.png'
+61.9338 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\numerals\\spanish\\02_s.png'
+73.6549 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Files\\Arithmetic-Task - MOCK\\stimuli\\feedback\\negative.png'
+76.2222 	EXP 	window1: mouseVisible = True
