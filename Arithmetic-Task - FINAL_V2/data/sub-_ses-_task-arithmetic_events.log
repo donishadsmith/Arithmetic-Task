@@ -1,0 +1,309 @@
+4.0894 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1920, 1080]. Using actual size
+4.4365 	EXP 	Created equation_first_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_first_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+4.4383 	EXP 	Created equation_operator = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_operator', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+4.4398 	EXP 	Created equation_second_term = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation_second_term', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+4.4413 	EXP 	Created equation = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='equation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+4.4429 	EXP 	Created comparison = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='comparison', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+4.4446 	EXP 	Created feedback = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='feedback', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.125, 2.   ]), texRes=128, units='norm', win=Window(...))
+4.4853 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+4.4872 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='•', units='norm', win=Window(...), wrapWidth=1)
+4.4896 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='?', units='norm', win=Window(...), wrapWidth=1)
+4.4996 	EXP 	Created end_screen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.14, italic=False, languageStyle='LTR', name='end_screen', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='The task is now complete.', units='norm', win=Window(...), wrapWidth=1)
+4.4998 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+4.4999 	EXP 	New trial (rep=0, index=0): None
+4.5021 	EXP 	Created sequence: random, trialTypes=1, nReps=24, seed=None
+4.5165 	EXP 	Created instruction_text_box = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instruction_text_box', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.3)
+4.8276 	DATA 	Keypress: space
+10.8345 	EXP 	New trial (rep=0, index=0): None
+10.9459 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\04_s.png'
+10.9459 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\27_s.png'
+10.9459 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\subtract_s.png'
+10.9459 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\-22_s.png'
+26.3770 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+30.6681 	EXP 	New trial (rep=1, index=0): None
+30.7091 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\24_n.png'
+30.7091 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\24_n.png'
+30.7091 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\subtract_n.png'
+30.7091 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\01_n.png'
+43.5561 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+49.0565 	EXP 	New trial (rep=2, index=0): None
+49.1118 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\18_e.png'
+49.1118 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\03_e.png'
+49.1118 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\add_e.png'
+49.1118 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\20_e.png'
+57.9299 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+62.1327 	EXP 	New trial (rep=3, index=0): None
+62.2158 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\22_e.png'
+62.2158 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\10_e.png'
+62.2158 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\divide_e.png'
+62.2158 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\-3_e.png'
+73.9228 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+77.3270 	EXP 	New trial (rep=4, index=0): None
+77.4109 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\19_s.png'
+77.4109 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\06_s.png'
+77.4109 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\add_s.png'
+77.4109 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\29_s.png'
+89.1249 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+95.1253 	EXP 	New trial (rep=5, index=0): None
+95.1799 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\02_e.png'
+95.1799 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\07_e.png'
+95.1799 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\multiply_e.png'
+95.1799 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\18_e.png'
+109.3333 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+115.0001 	EXP 	New trial (rep=6, index=0): None
+115.0906 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\28_s.png'
+115.0906 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\30_s.png'
+115.0906 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\add_s.png'
+115.0906 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\62_s.png'
+126.2286 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+131.3262 	EXP 	New trial (rep=7, index=0): None
+131.3958 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\16_s.png'
+131.3958 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\11_s.png'
+131.3958 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\divide_s.png'
+131.3958 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\03_s.png'
+142.9228 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+148.8191 	EXP 	New trial (rep=8, index=0): None
+148.8953 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\17_e.png'
+148.8953 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\27_e.png'
+148.8953 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\add_e.png'
+148.8953 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\40_e.png'
+162.5059 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+168.1104 	EXP 	New trial (rep=9, index=0): None
+168.1449 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\28_n.png'
+168.1449 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\19_n.png'
+168.1449 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\divide_n.png'
+168.1449 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\01_n.png'
+183.4987 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+187.7698 	EXP 	New trial (rep=10, index=0): None
+187.8322 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\14_e.png'
+187.8322 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\14_e.png'
+187.8322 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\subtract_e.png'
+187.8322 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\01_e.png'
+202.1644 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+207.4712 	EXP 	New trial (rep=11, index=0): None
+207.5125 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\12_n.png'
+207.5125 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\06_n.png'
+207.5125 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\multiply_n.png'
+207.5125 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\71_n.png'
+219.0260 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+225.0263 	EXP 	New trial (rep=12, index=0): None
+225.0745 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\06_e.png'
+225.0745 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\03_e.png'
+225.0745 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\add_e.png'
+225.0745 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\15_e.png'
+236.1924 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+240.2970 	EXP 	New trial (rep=13, index=0): None
+240.3320 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\30_n.png'
+240.3320 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\07_n.png'
+240.3320 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\divide_n.png'
+240.3320 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\14_n.png'
+255.3449 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+261.4483 	EXP 	New trial (rep=14, index=0): None
+261.4756 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\17_n.png'
+261.4756 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\04_n.png'
+261.4756 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\multiply_n.png'
+261.4756 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\65_n.png'
+271.8030 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+276.2965 	EXP 	New trial (rep=15, index=0): None
+276.3308 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\28_n.png'
+276.3308 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\09_n.png'
+276.3308 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\divide_n.png'
+276.3308 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\05_n.png'
+291.0458 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+295.2476 	EXP 	New trial (rep=16, index=0): None
+295.3236 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\25_e.png'
+295.3236 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\13_e.png'
+295.3236 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\divide_e.png'
+295.3236 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\05_e.png'
+309.8432 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+317.2474 	EXP 	New trial (rep=17, index=0): None
+317.3099 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\07_e.png'
+317.3099 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\03_e.png'
+317.3099 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\multiply_e.png'
+317.3099 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\22_e.png'
+329.1276 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+333.0318 	EXP 	New trial (rep=18, index=0): None
+333.1434 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\15_s.png'
+333.1434 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\09_s.png'
+333.1434 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\multiply_s.png'
+333.1434 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\133_s.png'
+346.0580 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+351.7607 	EXP 	New trial (rep=19, index=0): None
+351.7944 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\14_n.png'
+351.7944 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\04_n.png'
+351.7944 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\multiply_n.png'
+351.7944 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\61_n.png'
+365.2105 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+370.9133 	EXP 	New trial (rep=20, index=0): None
+370.9967 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\22_s.png'
+370.9967 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\13_s.png'
+370.9967 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\add_s.png'
+370.9967 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\44_s.png'
+383.0238 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+389.3227 	EXP 	New trial (rep=21, index=0): None
+389.4279 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\19_s.png'
+389.4279 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\29_s.png'
+389.4279 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\subtract_s.png'
+389.4279 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\-14_s.png'
+403.5723 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+408.6419 	EXP 	New trial (rep=22, index=0): None
+408.7048 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\13_s.png'
+408.7048 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\01_s.png'
+408.7048 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\subtract_s.png'
+408.7048 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\09_s.png'
+422.0440 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+426.0445 	EXP 	New trial (rep=23, index=0): None
+426.0790 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\24_n.png'
+426.0790 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\28_n.png'
+426.0790 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\subtract_n.png'
+426.0790 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\-8_n.png'
+438.2997 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+454.8339 	EXP 	New trial (rep=1, index=0): None
+454.8358 	EXP 	Created sequence: random, trialTypes=1, nReps=24, seed=None
+454.8417 	EXP 	Created instruction_text_box = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instruction_text_box', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.3)
+456.7317 	DATA 	Keypress: space
+462.7381 	EXP 	New trial (rep=0, index=0): None
+462.7727 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\28_n.png'
+462.7727 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\22_n.png'
+462.7727 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\subtract_n.png'
+462.7727 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\09_n.png'
+478.6266 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+484.7937 	EXP 	New trial (rep=1, index=0): None
+484.8699 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\29_e.png'
+484.8699 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\07_e.png'
+484.8699 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\add_e.png'
+484.8699 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\39_e.png'
+496.5570 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+501.8351 	EXP 	New trial (rep=2, index=0): None
+501.8693 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\21_n.png'
+501.8693 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\08_n.png'
+501.8693 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\subtract_n.png'
+501.8693 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\16_n.png'
+515.6053 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+521.1056 	EXP 	New trial (rep=3, index=0): None
+521.1819 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\21_s.png'
+521.1819 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\15_s.png'
+521.1819 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\divide_s.png'
+521.1819 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\09_s.png'
+532.5981 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+536.8972 	EXP 	New trial (rep=4, index=0): None
+536.9308 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\22_n.png'
+536.9308 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\11_n.png'
+536.9308 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\divide_n.png'
+536.9308 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\02_n.png'
+549.4580 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+555.1609 	EXP 	New trial (rep=5, index=0): None
+555.1951 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\13_n.png'
+555.1951 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\01_n.png'
+555.1951 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\multiply_n.png'
+555.1951 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\10_n.png'
+566.4091 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+572.5147 	EXP 	New trial (rep=6, index=0): None
+572.5909 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\24_s.png'
+572.5909 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\05_s.png'
+572.5909 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\subtract_s.png'
+572.5909 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\22_s.png'
+585.1114 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+589.5145 	EXP 	New trial (rep=7, index=0): None
+589.6189 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\13_s.png'
+589.6189 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\09_s.png'
+589.6189 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\multiply_s.png'
+589.6189 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\119_s.png'
+602.7641 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+608.4309 	EXP 	New trial (rep=8, index=0): None
+608.4641 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\22_n.png'
+608.4641 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\28_n.png'
+608.4641 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\add_n.png'
+608.4641 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\41_n.png'
+622.2150 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+629.4119 	EXP 	New trial (rep=9, index=0): None
+629.4930 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\16_e.png'
+629.4930 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\23_e.png'
+629.4930 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\add_e.png'
+629.4930 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\39_e.png'
+643.5053 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+649.4095 	EXP 	New trial (rep=10, index=0): None
+649.4932 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\19_s.png'
+649.4932 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\09_s.png'
+649.4932 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\subtract_s.png'
+649.4932 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\14_s.png'
+662.4084 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+670.6106 	EXP 	New trial (rep=11, index=0): None
+670.7007 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\21_s.png'
+670.7007 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\02_s.png'
+670.7007 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\multiply_s.png'
+670.7007 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\40_s.png'
+685.8539 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+690.2215 	EXP 	New trial (rep=12, index=0): None
+690.3190 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\19_s.png'
+690.3190 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\11_s.png'
+690.3190 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\divide_s.png'
+690.3190 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\-4_s.png'
+703.5542 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+709.7489 	EXP 	New trial (rep=13, index=0): None
+709.8184 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\11_e.png'
+709.8184 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\03_e.png'
+709.8184 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\multiply_e.png'
+709.8184 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\32_e.png'
+724.4358 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+729.3389 	EXP 	New trial (rep=14, index=0): None
+729.4088 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\09_s.png'
+729.4088 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\01_s.png'
+729.4088 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\divide_s.png'
+729.4088 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\10_s.png'
+741.9497 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+747.3179 	EXP 	New trial (rep=15, index=0): None
+747.4085 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\19_e.png'
+747.4085 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\27_e.png'
+747.4085 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\add_e.png'
+747.4085 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\44_e.png'
+758.3788 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+762.4567 	EXP 	New trial (rep=16, index=0): None
+762.4898 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\28_n.png'
+762.4898 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\19_n.png'
+762.4898 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\subtract_n.png'
+762.4898 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\12_n.png'
+773.4769 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\noninformative.png'
+778.1508 	EXP 	New trial (rep=17, index=0): None
+778.1851 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\30_n.png'
+778.1851 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\04_n.png'
+778.1851 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\add_n.png'
+778.1851 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\34_n.png'
+791.9280 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+797.0256 	EXP 	New trial (rep=18, index=0): None
+797.0948 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\26_s.png'
+797.0948 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\03_s.png'
+797.0948 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\divide_s.png'
+797.0948 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\spanish\\14_s.png'
+807.8166 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+811.9230 	EXP 	New trial (rep=19, index=0): None
+812.0119 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\28_e.png'
+812.0119 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\05_e.png'
+812.0119 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\multiply_e.png'
+812.0119 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\138_e.png'
+822.0317 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+827.3378 	EXP 	New trial (rep=20, index=0): None
+827.4073 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\09_e.png'
+827.4073 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\30_e.png'
+827.4073 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\subtract_e.png'
+827.4073 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\-19_e.png'
+842.0240 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+845.2263 	EXP 	New trial (rep=21, index=0): None
+845.2612 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\08_n.png'
+845.2612 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\04_n.png'
+845.2612 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\add_n.png'
+845.2612 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\12_n.png'
+857.3854 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+862.0872 	EXP 	New trial (rep=22, index=0): None
+862.1693 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\19_e.png'
+862.1693 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\08_e.png'
+862.1693 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\multiply_e.png'
+862.1693 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\153_e.png'
+873.5925 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+877.8994 	EXP 	New trial (rep=23, index=0): None
+877.9759 	EXP 	equation_first_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\25_e.png'
+877.9759 	EXP 	equation_second_term: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\19_e.png'
+877.9759 	EXP 	equation_operator: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\divide_e.png'
+877.9759 	EXP 	comparison: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\numerals\\english\\03_e.png'
+891.5928 	EXP 	feedback: image = 'C:\\Users\\donis\\OneDrive\\Desktop\\Arithmetic-Task-main (1)\\Arithmetic-Task-main\\Arithmetic-Task - FINAL\\stimuli\\feedback\\negative.png'
+908.7769 	EXP 	window1: mouseVisible = True
